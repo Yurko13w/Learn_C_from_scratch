@@ -8,7 +8,7 @@
 
 ## CONTENT
 💡理论和实践并行的C语言课程（难度会标）
->💡A C Language Course with Parallel Integration of Theory and Practice (Difficulty Level Indicated)�
+>💡A C Language Course with Parallel Integration of Theory and Practice (Difficulty Level Indicated)
 
 ## SUPPLEMENT
 📖参考文献在每章都有标注，CSDN同步更新（ CSDN：Yurko13 / 从零开始学C语言 ）
