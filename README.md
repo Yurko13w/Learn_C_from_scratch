@@ -17,5 +17,5 @@
 ❓如果文章内容有问题，可以及时反馈在评论区
 >❓If there are any issues with the article content, please feel free to provide feedback in the comment section in a timely manner
 
-⌚️三天更新一篇文章
->⌚️An article is updated every three days
+⌚️ 一周更新两次文章
+>⌚️ Articles are updated twice a week.
